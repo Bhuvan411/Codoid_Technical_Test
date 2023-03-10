@@ -1,0 +1,491 @@
+a.ph i{
+   color: aliceblue;
+}
+.ph i.fa-phone-alt{
+    color:rgb(0, 217, 165);
+}
+.ph span{
+    color:#AAAEA7;
+}
+  .top_nav .pipe{
+        border-right: 2px solid #AAAEA7 ;
+        height: 20px;
+        margin-top: 8px;
+    }
+.mail i.fa-envelope{
+    color:rgb(0, 217, 165);
+}
+.mail span{
+    color: #AAAEA7;
+}
+.fb i.fa-facebook-f{
+    color:#A1AAA7;
+}
+.tw i.fa-twitter{
+    color:#A1AAA7;
+}
+.ball i.fa-basketball-ball{
+    color:#A1AAA7;
+}
+.insta i.fa-instagram{
+    color:#A1AAA7;
+}
+
+.top_nav{
+    border-bottom: 1px solid #CED9DB;
+}
+.navbar1 a{
+    color: #00D9A5;
+}
+.navbar1 span{
+    color: black;
+}
+.input-group-prepend i.fa-search{
+    color:#00D9A5;
+}
+.collapse {
+    margin-left: 100px;
+}
+.collapse a{
+    color:#8A9AAC;
+}
+.nav-item .btn-primary{
+    color:white ;
+    background-color:#00D9A5;
+    border:none;
+    border-radius: 3px;
+    margin-top: 8px;
+    margin-left: 5px;
+    padding: 10px;
+    width:110%;
+}
+#home{
+    color: #00D9A5;
+}
+#section{
+    width: 100%;
+}
+#healthy_living{
+    width: 100%;
+    min-height: 720px;
+    background: rgba(0,0,0,0.7)url("../img/bg_image_1.jpg")center center no-repeat;
+    background-blend-mode: darken;
+    }
+#healthy_living h6{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 3px;
+    font-family: sans-serif;
+    margin-top: -185px;
+}
+#healthy_living h1{
+    color: white;
+    font-size: 63px;
+    font-family: sans-serif;
+}
+#healthy_living a{
+    background-color: #00D9A5;
+    padding-inline-start: 20px;
+    padding-inline-end: 20px;
+    font-size: 20px;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+#intermediate .card{
+    left: 130px;
+    transform: translate(-50%,-50%);
+    width: 250px;
+    height: 100px;
+}
+#intermediate .card1{
+    margin-top: -182px;
+}
+#intermediate .card2{
+    margin-top: -182px;
+}
+#intermediate .card3{
+    margin-top: -182px;
+}
+#intermediate .nogutters{
+     background-color: #4D5AFE;
+}
+#intermediate i{
+    margin-top:20px;
+}
+#intermediate .card-body{
+    margin-top: -13px;
+    margin-left: -23px;
+    font-size: 20px;
+}
+#intermediate .no-gutters span{
+    font-size:40px;
+    color:white;
+    background-color:#4E5AFE;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#intermediate .no-gutters.one span{
+    font-size:40px;
+    color:white;
+    background-color:#00D9A5;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#intermediate .no-gutters.two span{
+    font-size:40px;
+    color:white;
+    background-color:#FF3D85 ;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#doctor{
+    width: 100%;
+    background-color:#F5F9F6;
+    margin-top: -206px;
+}
+#doctor h1{
+    color:black;
+    font-size: 43px;
+    font-family: sans-serif;
+    margin-top: -62px;
+}
+#doctor p{
+    color:#938E7A;
+    font-size:bolder;
+}
+#doctor a{
+    color:white;
+    background-color:#00D9A5;
+    border: none;
+}
+body{
+    background-color:white;
+}
+#doctor .col1 {
+    margin-top:325px ;
+}#doctor .col2 img{
+    width: 292px;
+    margin-top: 200px;
+    margin-right: 121px;
+}
+#our_doctors{
+    background-color: white;
+    margin-top: -100px;
+}
+#our_doctors .row{
+    margin-top: 100px;
+}
+#our_doctors h1{
+    font-weight: bold;
+    margin-top: 50px;
+}
+#our_doctors .owl-carousel{
+    margin-top: 50px;
+}
+#our_doctors .card-columns{
+    margin-left: 50px;
+}
+#our_doctors .card{
+    width: 15rem;
+}
+#our_doctors img{
+    width: 100%;
+}
+#our_doctors .card-body{
+    margin-bottom: -20px;
+}
+#our_doctors .card-text{
+    margin-bottom: -20px;
+    font-weight: bold;
+}
+.owl-carousel .card img{
+     width: 100%;
+}
+.owl-theme .owl-nav{
+   margin-top: 40px;
+}
+.owl-stage{
+    margin-left: 60px;
+}
+.owl-nav{
+    background-color: #00D9A5;
+    color: white;
+    border-radius: 50px;
+    margin-left: 503px;
+    margin-right: 534px;
+    margin-bottom: 97px;
+   
+   
+}
+#our_doctors .owl-carousel button{
+    background-color:#00D9A5;
+}
+
+#latestnews{
+    background-color:#F5F9F6;
+    margin-top: 10px;
+}
+
+#latestnews h1{
+    color:black;
+    margin-top: 60px;
+    font-size: 39px;
+}
+#latestnews img{
+    width: 285px;
+}
+#latestnews .card{
+    margin-top: 60px;
+}
+
+#latestnews .card-body{
+    margin-top: -63px;
+}
+#latestnews .card-text{
+    font-size:115%;
+   margin-top: 52px;
+   margin-left:-2px;
+}
+
+#latestnews .card1 h6 img{
+    width: 15%;
+    border-radius: 70px;
+    margin: -123px -71px -176px -16px;
+}
+
+#latestnews .card2 h6 img{
+    width: 15%;
+    border-radius: 70px;
+    margin: -123px -71px -176px -16px;
+}
+
+#latestnews .card3 h6 img{
+    width: 15%;
+    border-radius: 70px;
+    margin: -123px -71px -176px -14px;
+}
+#latestnews p{
+    margin-left: 35px;
+    margin-top: -26px;
+    color: #8F98B4;
+}
+#latestnews .card-columns{
+    margin-left: 30px;
+}
+#latestnews a{
+    background-color: #00D9A5;
+    border-color: #00D9A5;
+    color: white;
+    padding: 9px 38px 10px 35px;
+   font-size: 20px;
+   margin-top: 35px;
+   margin-right: 286px;
+    margin-left: -313px;
+    margin-bottom: 52px;
+}
+#latestnews span{
+    margin-left: -5px;
+}
+#latestnews i{
+    margin-left: 10px;
+}
+#make{
+    background-color:white;
+    margin-top: 70px;
+}
+#make button{
+    background-color: #00D9A5;
+    border-color: #00D9A5;
+    margin-left: 377px;
+}
+#make form{
+    width: 600px;
+}
+
+
+
+
+
+#mobile_app .align-self-center{
+    margin-top: 60px;
+}
+#mobile_app .text-left{
+    left: -100px;
+}
+#mobile_app .text-left img{
+    width: 250px;
+    margin-left: 150px;
+}
+#mobile_app .app_store{
+    margin-top: 90px;
+}
+#mobile_app .app_store h4{
+    font-size: 33px;
+    color:white ;
+    margin-left: -8px;
+}
+#mobile_app {
+    background: #00d9a5;
+    margin-top: 50px;
+}
+
+
+
+
+footer{
+    background-color: #2d3b38;
+    margin-top: -48px;
+}
+footer #v-pills-home-tab {
+    color: white;
+    font-weight: bold;
+}
+
+footer #v-pills-one-tab{
+    color:#abb1af;
+  font-size: 15px;
+}
+
+footer .row{
+    padding-top: 100px;
+    border-bottom: 1.5px solid #4f5e5b;
+}
+footer span{
+    color: white;
+    font-weight: bold;
+    margin-left: 26px;
+}
+footer p{
+    color: white;
+    margin-top: 10px;
+}
+footer #copy{
+    margin-left: 1px;
+    color: #00d9a5;
+}
+
+footer .nav-item .insta i{
+    font-size: 15px;
+    background-color:#26312f;
+    border-radius: 30px;
+    padding: 5px;
+    color: white;
+}
+
+footer .nav-item .fb i{
+    font-size: 15px;
+    background-color:#26312f;
+    border-radius: 30px;
+    padding: 5px;
+    color: white;
+    margin-right: 11px;
+    margin-left: 20px;
+}
+footer .nav-item .google i{
+    font-size: 15px;
+    background-color:#26312f;
+    border-radius: 30px;
+    padding: 5px;
+    color: white;
+}footer .nav-item .linkedin i{
+    font-size: 15px;
+    background-color:#26312f;
+    border-radius: 30px;
+    padding: 5px;
+    color: white;
+}
+footer .nav-item .tw i{
+    font-size: 15px;
+    background-color:#26312f;
+    border-radius: 30px;
+    padding: 5px;
+    color: white;
+    margin-left: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:400px){
+    #make form{
+      width: 328px;
+    }
+}
+@media (max-width:400px){
+    #make button{
+     margin-left: 20px;
+    }
+}
+
+@media (max-width:400px){
+    #intermediate .card1{
+        left:45px;
+        height: 192px;
+    }
+}
+@media (max-width:400px){
+    #intermediate .card1 p{
+       margin-left:9px;
+    }
+}
+
+@media (max-width:400px){
+    #intermediate .card2{
+        left:56px;
+        height: 192px;
+    }
+}
+@media (max-width:400px){
+    #intermediate .card2 p{
+       margin-left:13px;
+    }
+}
+
+@media (max-width:400px){
+    #intermediate .card3{
+        left:66px;
+        height: 192px;
+    }
+}
+@media (max-width:400px){
+    #intermediate .card3 p{
+       margin-left:9px;
+    }
+}
+
+@media  (max-width:400px) {
+    #latestnews a{
+    background-color: #00d9a5;
+    border-radius: 10px;
+    margin-left: 57px;
+    margin-right: -12px;
+    color: white;
+    }
+}
+
+
+
+@media  (max-width:400px) {
+    .owl-nav{
+    background-color: #00d9a5;
+    border-radius: 50px;
+    margin-left: 130px;
+    margin-right: 130px;
+    color: white;
+    }
+}
